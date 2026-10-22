@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Full-Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Giza%2C%20Egypt-Hadayek%20October-blue?style=flat-square&logo=google-maps" alt="Location">
+  <img src="https://img.shields.io/badge/Giza%2C%20Egypt-blue?style=flat-square&logo=google-maps" alt="Location">
   <img src="https://img.shields.io/badge/Phone-%2B20%2001035637048-green?style=flat-square&logo=whatsapp" alt="Phone">
   <a href="https://linkedin.com/in/mohamed-hussein7048" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mohamed.hussien.7048@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
