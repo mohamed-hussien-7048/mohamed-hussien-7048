@@ -17,25 +17,6 @@ Software Engineer with hands-on freelance experience delivering full-stack appli
 
 ---
 
-## 💼 Work Experience
-
-* *End-to-End Software Delivery:* Owned the software development lifecycle, from requirements gathering and system design to implementation, integration, deployment, and post-launch support.
-* *Business Systems Development:* Designed and delivered full-stack solutions for 20+ commercial clients across education, food and beverage, and retail, including inventory management, educational center management, and employee financial transaction systems.
-* *System Design & Technology Integration:* Selected and integrated technologies based on project requirements and constraints, using React.js, Node.js, Express.js, SQLite, SQL Server, and Google Sheets API.
-* *Real-Time & Biometric Integration:* Developed a ZKTeco fingerprint attendance system using Node.js, UDP sockets, and a Socket.IO dashboard, implementing database-level duplicate prevention through a composite unique constraint on device IP, user ID, and attendance timestamp.
-* *Multi-Branch Operations:* Developed an inventory management system for a four-branch business, supporting centralized inventory tracking and operational workflows.
-
----
-
-## 🎓 Education
-
-### *Bachelor's Degree in Systems and Information*
-*Thebes Academy (THI), Cairo, Egypt* | 2020–2024 | *GPA:* 3.3/4.0
-
-* *Graduation Project:* Digital Learning Platform — Multi-role e-learning system featuring role-based access control, course management, video/PDF lectures, assessments, and feedback.
-
----
-
 ## 🛠️ Tech Stack & Skills
 
 * *Languages:* JavaScript (ES6+), TypeScript, C++
@@ -46,18 +27,6 @@ Software Engineer with hands-on freelance experience delivering full-stack appli
 * *Networking & IOT:* WebSockets, TCP/UDP Sockets, MQTT, ZKTeco Integration
 * *Architecture & Quality:* MVC, SOLID Principles, Clean Code, API Testing
 * *Tools & Libraries:* Git, GitHub, Postman, PM2, Google Apps Script, Multer, bcrypt, express-session, express-validator
-
----
-
-## 🌐 Languages & Additional Experience
-
-* *Spoken Languages:* Arabic (Native), English (Intermediate; technical reading and comprehension)
-
-### *Volunteering*
-* *Team Leader* | Science Team Thebes Academy (Oct 2021 – May 2024)
-* *Cyber Security* | MSP Tech Club - Shoubra Engineering (Apr 2020 – Oct 2022)
-* *Social Media Poster Designer* | Anwar Resala Team Elmohandseen (Jul 2021 – May 2025)
-* *Public Relations & Fund Raising* | Anwar Resala Elmohandseen (Sept 2019 – Oct 2022)
 
 ---
 
