@@ -13,8 +13,6 @@
 ## 🚀 Professional Summary
 Software Engineer with hands-on freelance experience delivering full-stack applications and business-oriented systems for 20+ commercial clients. Experienced in software design, backend development with Node.js and Express.js, database integration, RESTful APIs, and real-time system integration. Focused on building maintainable, reliable software solutions aligned with real-world operational requirements.
 
-* *Military Status:* Completed 2026 | Egyptian Armed Forces (Sep 2025 – Oct 2026)
-
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -27,9 +25,3 @@ Software Engineer with hands-on freelance experience delivering full-stack appli
 * *Networking & IOT:* WebSockets, TCP/UDP Sockets, MQTT, ZKTeco Integration
 * *Architecture & Quality:* MVC, SOLID Principles, Clean Code, API Testing
 * *Tools & Libraries:* Git, GitHub, Postman, PM2, Google Apps Script, Multer, bcrypt, express-session, express-validator
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=brightgreen" alt="Profile Views">
-</p>
