@@ -17,11 +17,19 @@ Software Engineer with hands-on freelance experience delivering full-stack appli
 
 ## 🛠️ Tech Stack & Skills
 
-* *Languages:* JavaScript (ES6+), TypeScript, C++
-* *Frontend:* React.js, Next.js, Tailwind CSS, Bootstrap, Responsive Web Design
-* *Backend & APIs:* Node.js, Express.js, RESTful APIs, Socket.IO, JWT, OAuth/Passport.js
-* *Databases:* MongoDB, SQLite, SQL Server, IndexedDB, Google Sheets API
-* *Operating Systems:* Linux CLI, Windows
-* *Networking & IOT:* WebSockets, TCP/UDP Sockets, MQTT, ZKTeco Integration
-* *Architecture & Quality:* MVC, SOLID Principles, Clean Code, API Testing
-* *Tools & Libraries:* Git, GitHub, Postman, PM2, Google Apps Script, Multer, bcrypt, express-session, express-validator
+* *Programming Languages:* Experience with JavaScript (ES6+), TypeScript, and C++.
+
+* *Backend Development:* Experienced in building backend applications with Node.js, Express.js, RESTful APIs, Socket.IO, JWT, and OAuth/Passport.js.
+
+* *Frontend Development:* Experienced in building responsive web interfaces with React.js, Next.js, Tailwind CSS, Bootstrap, and Responsive Web Design.
+
+* *Databases & Data Integration:* Hands-on SQL Server, PostgreSQL, MongoDB, SQLite, and Google Sheets API.
+
+* *Networking & IoT:* Experienced in WebSockets, TCP/UDP Sockets, MQTT, and ZKTeco biometric device integration.
+
+* *Software Design & Practices:* Familiar in MVC, SOLID principles, Clean Code, and API Testing.
+
+* *Operating Systems:* Comfortable working with Linux CLI and Windows.
+
+* *Tools & Libraries:* Experience using Git/GitHub, Postman, PM2, Google Apps Script, Multer, bcrypt, session, and validator.
+
