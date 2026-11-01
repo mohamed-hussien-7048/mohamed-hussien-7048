@@ -19,9 +19,9 @@ Software Engineer with hands-on freelance experience delivering full-stack appli
 
 * *Programming Languages:* Experience with JavaScript (ES6+), TypeScript, and C++.
 
-* *Backend Development:* Experienced in building backend applications with Node.js, Express.js, RESTful APIs, Socket.IO, JWT, and OAuth/Passport.js.
+* *Backend Development:* Experienced in building backend applications with Node.js, Express.js, RESTful APIs, Socket.IO, JWT, and Passport.js.
 
-* *Frontend Development:* Experienced in building responsive web interfaces with React.js, Next.js, Tailwind CSS, Bootstrap, and Responsive Web Design.
+* *Frontend Development:* Experienced in building web interfaces with React.js, Next.js, Tailwind CSS, Bootstrap, and Responsive Web Design.
 
 * *Databases & Data Integration:* Hands-on SQL Server, PostgreSQL, MongoDB, SQLite, and Google Sheets API.
 
